@@ -1,11 +1,11 @@
 # 👋 Hi, I’m @Srakshin
 
-- 👀 I’m interested in **innovative tech** that brings meaningful change and challenges the status quo.
-- 🌱 I’m currently learning **Machine Learning, Data Science, and Web Development**—focused on precision and execution, much like a calculated move in a high-stakes scenario.
-- 💞️ I’m looking to collaborate on projects that **solve real-world problems** and break barriers, much like how adversity can lead to unexpected yet impactful outcomes.
-- 📫 How to reach me: You can find me through **https://www.linkedin.com/in/srakshin/** or drop me an email at bsrakshin@gmail.com.
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I believe in **precision** and **calculated action**—always preparing for a major breakthrough.
+-  I’m interested in **innovative tech** that brings meaningful change and challenges the status quo.
+-  I’m currently learning **Machine Learning, Data Science, and Web Development**—focused on precision and execution, much like a calculated move in a high-stakes scenario.
+-  I’m looking to collaborate on projects that **solve real-world problems** and break barriers, much like how adversity can lead to unexpected yet impactful outcomes.
+-  How to reach me: You can find me through **https://www.linkedin.com/in/srakshin/** or drop me an email at bsrakshin@gmail.com.
+-  Pronouns: He/Him
+-  Fun fact: I believe in **precision** and **calculated action**—always preparing for a major breakthrough.
 
 ---
 
